@@ -1,14 +1,15 @@
 [
   {
-    "id": "bits-goa-maharashtra-mandal",
-    "name": "Bits Goa Maharashtra Mandal",
-    "category": "Cultural",
-    "abbreviation": "Maharashtra Mandal",
-    "description": "Maharashtra Mandal is the cultural heart of our campus for all who cherish the heritage and spirit of Maharashtra. Each year, we come together to celebrate four major festivals — Ganesh Chaturthi, Deepotsav, Ram Navami, and Shiv Jayanti — with vibrant decorations, devotional ceremonies, and cultural activities that draw over 3,500 participants.\n\nOpen to everyone, our community is rooted in warmth, inclusivity, and shared passion. While many of our members have Marathi roots, we welcome anyone who wishes to immerse themselves in our traditions, values, and camaraderie.\n\nFor freshers, the Mandal is more than just a club — it is a family away from home. Here, cultural connection meets genuine friendship, offering a space to belong, contribute, and create cherished memories.\n\nWe look forward to the opportunity to present our story at Orientation and showcase the joy and unity our Mandal brings to campus life.",
-    "instagram": "https://www.instagram.com/bitsgoa.maharashtra.mandal?igsh=bHg0NXJ6b2s4MWp3",
-    "linkedin": "https://in.linkedin.com/company/maharashtra-mandal-bits-goa",
-    "image1": "/club-images/Bits_Goa_Maharashtra_Mandal_Image1.JPG",
-    "image2": "/club-images/Bits_Goa_Maharashtra_Mandal_Image2.JPEG"
+    "id": "electronics-and-robotics-club",
+    "name": "Electronics and Robotics Club",
+    "category": "Technical",
+    "abbreviation": "ERC",
+    "description": "The Electronics and Robotics Club (ERC) is a student-driven community passionate about electronics, machine learning, and mechanical design. Founded in 2008, it has grown into a hub for hands-on innovation in robotics.\n\nERC fosters collaboration through structured teams working on diverse projects, from hardware design to full-fledged robots. Over the years, we have shifted from competitions to research-driven projects tackling real-world challenges while staying at the forefront of industry advancements.\n\nOngoing Research Projects:\n* Vulcan \n* SpiderBot \n* SnakeBot \n* Drone Automation\n* Quadruped\n* Robotic Arm\n* Swarm Bots\n* Embedded Systems\n\nBeyond research, ERC’s exhibition projects at Quark, our annual tech fest, are both technical marvels and crowd favorites.\n\nWe welcome all passionate engineers, coders, and makers—reach out and be part of our journey!",
+    "instagram": "@erc_bitsgoa",
+    "linkedin": "https://www.linkedin.com/company/electronics-robotics-club-bits-goa",
+    "github": "https://github.com/ERC-BPGC",
+    "image1": "/club-images/Electronics_and_Robotics_Club_Image1.jpg",
+    "image2": "/club-images/Electronics_and_Robotics_Club_Image2.png"
   },
   {
     "id": "fun-unlimited-comedy-club",
@@ -103,7 +104,7 @@
     "name": "Department of Creative Works",
     "category": "Technical",
     "abbreviation": "DoCW",
-    "description": "The Department of Creative Works (DoCW) is where ideas meet execution, energy, and a dash of madness. We are the creative force behind BITS Goa’s flagship fests Waves, Quark, and Spree, creating crowd favourite events like Paintball, Laser Tag, Glow Party, Silent Disco, Hogathon, Drinkathon, Crime Scene Investigation, Escape Rooms, and Auctions. We also host one of Waves’ most awaited nights BITS Goa’s Prom.\nBeyond fests, we make campus life memorable with events like Freshers’ Night and the quirky farewell tradition NaReal Awards. Our work runs year round through three verticals Calling, Design, and Video Editing, each vital to our plans. We thrive on hard work, creative problem solving, and last minute chaos, but also party just as hard. Above all, DoCW is a family, loud, passionate, and always ready to create magic together.",
+    "description": "The Department of Creative Works (DoCW) is where ideas meet execution, energy, and a dash of madness. We are the creative force behind BITS Goa’s flagship fests Waves, Quark, and Spree, creating crowd favourite events like Paintball, Laser Tag, Glow Party, Silent Disco, Hogathon, Drinkathon, Crime Scene Investigation, Escape Rooms, and Auctions. We also host one of Waves’ most awaited nights BITS Goa’s Prom.\nBeyond fests, we make campus life memorable with events like Freshers’ Night and the quirky farewell tradition NaReal Awards. Our work runs year round through three verticals Calling, Design, and Video Editing. We thrive on creative problem solving, and last minute chaos, but also party just as hard. Above all, DoCW is a family, loud, passionate, and always ready to create magic together.",
     "instagram": "https://www.instagram.com/docw_bitsgoa/",
     "linkedin": "https://www.linkedin.com/company/docwbitsgoa/",
     "github": "https://www.facebook.com/DoCWbitsGoa",
@@ -112,28 +113,6 @@
   },
   {
     "id": "department-of-sponsorship-and-marketing",
-    "name": "Department of Sponsorship and Marketing",
-    "category": "Cultural",
-    "abbreviation": "DoSM",
-    "description": "Welcome to DoSM - the team of best negotiators and closers on campus. We bring in brands & the deals that power Waves, Quark, and Spree. From sealing partnerships with national and international names to keeping our legacy sponsors coming back, we make sure our fests are bigger, louder, and unforgettable. Along with other departments, we’re the reason the fests becomes what it is. DoSM isn’t just a department, it’s a place where you learn skills people spend years trying to master: confidence, networking, communication, creative thinking, professionalism, and real, hands-on experience. You’ll pitch to CXOs, close deals, and watch your work transform the fest in real time.And the best part? You’ll find a family for years to come, one that works hard, laughs harder, and parties the hardest. Our motto says it all: We work hard and party harder. Bring your best to inductions cause at DoSM, good simply isn’t good enough.",
-    "linkedin": "https://www.linkedin.com/company/department-of-sponsorship-and-marketing-bits-goa/",
-    "image1": "/club-images/Department_of_Sponsorship_and_Marketing_Image1.jpg",
-    "image2": "/club-images/Department_of_Sponsorship_and_Marketing_Image2.jpg"
-  },
-  {
-    "id": "design",
-    "name": "Design",
-    "category": "Others",
-    "abbreviation": " and Video Editing",
-    "description": " each vital to our plans. We thrive on hard work",
-    "instagram": " creative problem solving",
-    "linkedin": " and last minute chaos",
-    "github": " but also party just as hard. Above all",
-    "image1": null,
-    "image2": null
-  },
-  {
-    "id": "department-of-sponsorship-and-marketing-1",
     "name": "Department of Sponsorship and Marketing",
     "category": "Cultural",
     "abbreviation": "DoSM",
@@ -164,16 +143,15 @@
     "image2": "/club-images/AlgoManiaX_Image2.jpeg"
   },
   {
-    "id": "electronics-and-robotics-club",
-    "name": "Electronics and robotics club",
-    "category": "Technical",
-    "abbreviation": "ERC",
-    "description": "ERC-BPGC Robotics Club Inductions 🚀\n\nAre you fascinated by robots, automation, and the limitless possibilities of technology?\nThe Electronics and Robotics Club (ERC-BPGC) is calling all innovators, tinkerers, and dreamers to join our community!\n\nFrom building autonomous bots to working on cutting-edge robotics projects, we push the boundaries of creativity and engineering. Whether you’re into mechanical design, electronics, coding, AI, or just curious about robotics, there’s a place for you here.\n💡 No prior experience needed – just passion and the urge to learn!",
-    "instagram": "erc_bitsgoa",
-    "linkedin": "Electronics & Robotics Club, BITS Goa",
-    "github": "https://github.com/ERC-BPGC",
-    "image1": "/club-images/Electronics_and_robotics_club_Image1.png",
-    "image2": "/club-images/Electronics_and_robotics_club_Image2.png"
+    "id": "bits-goa-maharashtra-mandal",
+    "name": "Bits Goa Maharashtra Mandal",
+    "category": "Cultural",
+    "abbreviation": "Maharashtra Mandal",
+    "description": "Maharashtra Mandal is the cultural heart of our campus for all who cherish the heritage and spirit of Maharashtra. Each year, we come together to celebrate four major festivals — Ganesh Chaturthi, Deepotsav, Ram Navami, and Shiv Jayanti — with vibrant decorations, devotional ceremonies, and cultural activities that draw over 3,500 participants.\n\nOpen to everyone, our community is rooted in warmth, inclusivity, and shared passion. While many of our members have Marathi roots, we welcome anyone who wishes to immerse themselves in our traditions, values, and camaraderie.\n\nFor freshers, the Mandal is more than just a club — it is a family away from home. Here, cultural connection meets genuine friendship, offering a space to belong, contribute, and create cherished memories.\n\nWe look forward to the opportunity to present our story at Orientation and showcase the joy and unity our Mandal brings to campus life.",
+    "instagram": "https://www.instagram.com/bitsgoa.maharashtra.mandal?igsh=bHg0NXJ6b2s4MWp3",
+    "linkedin": "https://in.linkedin.com/company/maharashtra-mandal-bits-goa",
+    "image1": "/club-images/Bits_Goa_Maharashtra_Mandal_Image1.JPG",
+    "image2": "/club-images/Bits_Goa_Maharashtra_Mandal_Image2.JPEG"
   },
   {
     "id": "department-of-surveillance-and-registration",
@@ -206,18 +184,6 @@
     "instagram": "https://www.instagram.com/fashionclub.bpgc?igsh=MTg5ZG0wMDM0eGZobg==",
     "image1": "/club-images/Fashion_Club_Image1.jpeg",
     "image2": "/club-images/Fashion_Club_Image2.jpeg"
-  },
-  {
-    "id": "electronics-and-robotics-club-1",
-    "name": "Electronics and Robotics Club",
-    "category": "Technical",
-    "abbreviation": "ERC",
-    "description": "The Electronics and Robotics Club (ERC) is a student-driven community passionate about electronics, machine learning, and mechanical design. Founded in 2008, it has grown into a hub for hands-on innovation in robotics.\n\nERC fosters collaboration through structured teams working on diverse projects, from hardware design to full-fledged robots. Over the years, we have shifted from competitions to research-driven projects tackling real-world challenges while staying at the forefront of industry advancements.\n\nOngoing Research Projects:\n* Vulcan \n* SpiderBot \n* SnakeBot \n* Drone Automation\n* Quadruped\n* Robotic Arm\n* Swarm Bots\n* Embedded Systems\n\nBeyond research, ERC’s exhibition projects at Quark, our annual tech fest, are both technical marvels and crowd favorites.\n\nWe welcome all passionate engineers, coders, and makers—reach out and be part of our journey!",
-    "instagram": "@erc_bitsgoa",
-    "linkedin": "https://www.linkedin.com/company/electronics-robotics-club-bits-goa",
-    "github": "https://github.com/ERC-BPGC",
-    "image1": "/club-images/Electronics_and_Robotics_Club_Image1.jpg",
-    "image2": "/club-images/Electronics_and_Robotics_Club_Image2.jpg"
   },
   {
     "id": "mime-club-bits-goa",
