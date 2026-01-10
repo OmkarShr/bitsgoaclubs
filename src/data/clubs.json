@@ -1,15 +1,14 @@
 [
   {
-    "id": "bits-gos-maharashtra-mandal",
-    "name": "Bits Gos Maharashtra Mandal",
+    "id": "bits-goa-maharashtra-mandal",
+    "name": "Bits Goa Maharashtra Mandal",
     "category": "Cultural",
     "abbreviation": "Maharashtra Mandal",
     "description": "Maharashtra Mandal is the cultural heart of our campus for all who cherish the heritage and spirit of Maharashtra. Each year, we come together to celebrate four major festivals — Ganesh Chaturthi, Deepotsav, Ram Navami, and Shiv Jayanti — with vibrant decorations, devotional ceremonies, and cultural activities that draw over 3,500 participants.\n\nOpen to everyone, our community is rooted in warmth, inclusivity, and shared passion. While many of our members have Marathi roots, we welcome anyone who wishes to immerse themselves in our traditions, values, and camaraderie.\n\nFor freshers, the Mandal is more than just a club — it is a family away from home. Here, cultural connection meets genuine friendship, offering a space to belong, contribute, and create cherished memories.\n\nWe look forward to the opportunity to present our story at Orientation and showcase the joy and unity our Mandal brings to campus life.",
     "instagram": "https://www.instagram.com/bitsgoa.maharashtra.mandal?igsh=bHg0NXJ6b2s4MWp3",
     "linkedin": "https://in.linkedin.com/company/maharashtra-mandal-bits-goa",
-    "whatsapp": "https://chat.whatsapp.com/Lp8hmU0EagbB5SaGl4XI5i?mode=ac_t",
-    "image1": "/club-images/Bits_Gos_Maharashtra_Mandal_Image1.JPG",
-    "image2": "/club-images/Bits_Gos_Maharashtra_Mandal_Image2.JPEG"
+    "image1": "/club-images/Bits_Goa_Maharashtra_Mandal_Image1.JPG",
+    "image2": "/club-images/Bits_Goa_Maharashtra_Mandal_Image2.JPEG"
   },
   {
     "id": "fun-unlimited-comedy-club",
@@ -18,7 +17,6 @@
     "abbreviation": "FUCC",
     "description": "The FUN UNLIMITED COMEDY CLUB (FUCC) is the ultimate hub for laughter, creativity, and quick wit at BITS Goa. We unite students who love humor—whether it’s stand-up, improv, sketch writing, or simply making people smile. Our weekly GBMs are a fun blend of witty discussions, brainstorming new ideas, and skill-building workshops to sharpen comedic timing and storytelling. We’ve hosted hilarious shows like Not So Latent, run friendly competitions, and even created a parody video of BITS Goa Club Inductions that had the audience in stitches. Beyond the stage, our Instagram meme page @fuccmemepage keeps the laughter going online. At FUCC, we believe in spreading joy, breaking stress, and turning everyday college life into one big punchline. If you’ve got a joke, a story, or just a funny bone—this is your stage.",
     "instagram": "@fuccbitsgoa,@fuccmemepage",
-    "whatsapp": "https://chat.whatsapp.com/InRmNWbzCgL17MriIWaiu7?mode=ac_t",
     "image1": "/club-images/Fun_Unlimited_Comedy_Club_Image1.jpg",
     "image2": "/club-images/Fun_Unlimited_Comedy_Club_Image2.webp"
   },
@@ -29,7 +27,6 @@
     "abbreviation": "LDC",
     "description": "The LDC is a club that acts as a safe space for expression, creativity and critical thinking. We host weekly debates on topics ranging from social movements and economics to international relations, criminal justice and sports, helping members of the club sharpen their reasoning, build confidence and public-speaking skills.\n\nOur literary side organizes weekly writing sessions and book clubs where we write original pieces, exchange ideas and engage in intellectually stimulating conversations to help us destress and have fun.\n\nWe travel to external offline debating tournaments like IITB and Nalsar. We participate in multiple online debate tournaments and have performed extremely well. \n\nWe also organize flagship events that invite talent from across the country. We host a debate tournament that attracts 100+ external participants while our nationwide slam poetry competition is held in cities like Bangalore, Mumbai, Delhi and Chennai with finalists coming to campus and competing during Waves.",
     "instagram": "ldcbitsgoa",
-    "whatsapp": "https://chat.whatsapp.com/HbaG5TcWLqHKv775Y9rXrt",
     "image1": "/club-images/Literary_and_Debating_Club_Image1.jpeg",
     "image2": "/club-images/Literary_and_Debating_Club_Image2.jpeg"
   },
@@ -41,7 +38,6 @@
     "description": "The Student Alumni Relations Cell (SARC) at BITS Goa is one of the most exclusive bodies on campus, driving every alumni-related initiative. We host milestone events like the 20-Year Reunion, the Director’s Tea Party, and Batch Snaps for graduating students, while keeping the BITSian network alive through articles, podcasts, alumni talks, and a monthly newsletter featuring with campus updates. Beyond events, we also engage in fundraising initiatives like PSenti, which fund clubs and scholarships. SARC is the perfect place for confident and capable individuals who are looking to connect with and learn from the BITSian alumni network.",
     "instagram": "https://www.instagram.com/bitsgoa_sarc/",
     "linkedin": "https://www.linkedin.com/company/alumni-relations-cell-bits-pilani-goa/",
-    "whatsapp": "https://chat.whatsapp.com/ErZBT3tKBwd1lI3IGo0g2p",
     "image1": "/club-images/Student_Alumni_Relations_Cell_Image1.jpg",
     "image2": "/club-images/Student_Alumni_Relations_Cell_Image2.jpeg"
   },
@@ -53,8 +49,7 @@
     "description": "The Eco Club is a club dedicated to raising environmental awareness and organizing activities that aims to pique people's interest in nature and its associated fields. Its outdoor activities include Beach Cleanups, Nature Outings, GeoGuessr quizzes, Tree Tagging and Bird Watching Sessions and many more fun events! In addition, the club has it's own newsletter, published every month by the title 'Eco Gazette' on its website which discusses many environment related issues and phenomenon and gives an opportunity for those who are interested in writing about such issues.",
     "instagram": "https://www.instagram.com/ecoclub_bpgc/",
     "linkedin": "https://www.linkedin.com/company/the-ecology-club-bits-goa",
-    "other_social": "https://sites.google.com/view/eco-club-bits-goa/home      (Club Website)",
-    "whatsapp": "https://chat.whatsapp.com/COKiw3Zb2nv3kEWj6zcqFv?mode=ac_t",
+    "github": "https://sites.google.com/view/eco-club-bits-goa/home      (Club Website)",
     "image1": "/club-images/The_Eco_Club_Image1.jpg",
     "image2": "/club-images/The_Eco_Club_Image2.jpg"
   },
@@ -66,8 +61,7 @@
     "description": "Project Kratos is a multidisciplinary team of passionate engineering students committed to pushing the frontiers of Space Robotics. We design and build state-of-the-art all-terrain, autonomous Mars rovers capable of tackling the harshest environments and most demanding missions. Over the years, our rovers have earned multiple accolades while competing against the best teams in the world at prestigious events such as the International Rover Challenge (IRC), University Rover Challenge (URC), and Anatolian Rover Challenge (ARC). Our team operates through five highly coordinated subsystems: Mechanical, Electronics, Controls, Life Detection, and Autonomous - each bringing specialized expertise to create cutting-edge, competition-ready rovers. By combining innovation, teamwork, and technical excellence, Project Kratos continues to develop systems that embody the spirit of exploration and engineering ingenuity.",
     "instagram": "https://www.instagram.com/kratosbitsgoa/",
     "linkedin": "https://www.linkedin.com/company/kratosbitsgoa",
-    "other_social": "https://kratos-the-rover.github.io/",
-    "whatsapp": "None (will induct 2nd year students)",
+    "github": "https://kratos-the-rover.github.io/",
     "image1": "/club-images/Project_Kratos_Image1.jpg",
     "image2": "/club-images/Project_Kratos_Image2.jpg"
   },
@@ -78,7 +72,6 @@
     "abbreviation": "Abhivyakti ",
     "description": "Abhivyakti is a hub for original thinkers, writers, poets, musicians and strongly bonded people. We focus mainly on Hindi and Urdu literature and music. \nOrientation- We are preparing a fun video that shows our club's originality, literature, music and other aspects. (10 min maximum speech included)\nPre induction- We want to conduct an Open Mic after 22nd at FK. \nInduction- Similar to last year, we would require two rooms for our two verticals- literature and music as they cannot be conducted in the same room. ",
     "instagram": "abhivyaktibitsgoa (https://www.instagram.com/abhivyaktibitsgoa?igsh=MTQyMXBhdGdvZ2w2eQ==)",
-    "whatsapp": "https://chat.whatsapp.com/KqvvUJueejh9GuKdtQBvMH?mode=ac_t",
     "image1": "/club-images/Abhivyakti_Image1.jpg",
     "image2": "/club-images/Abhivyakti_Image2.jpg"
   },
@@ -90,8 +83,7 @@
     "description": "SAE BITS Goa is the collegiate motorsports club of BITS Pilani, K.K. Birla Goa Campus, affiliated with SAE India. The club fields two flagship teams — Team Gigawatt, which designs and manufactures Formula Student (FSAE) spec electric race cars for Formula Bharat , India's premier motorsport competition, and Team Greasemonkeys, which builds rugged All-Terrain Vehicles (ATVs) for the BAJA SAE competition.\n\nFounded in 2012, Team Greasemonkeys has been a consistent BAJA contender, recently finishing in the top 15 at the 2025 Mega ATV event. Team Gigawatt, formed in 2023, debuted at Formula Bharat 2025 with a commendable 24th place finish out of 40 teams.\n\nBoth teams are now setting their sights higher are targeting top 10 finishes in their respective competitions while continuing to innovate, refine designs, and represent BITS Goa with engineering excellence and competitive spirit.",
     "instagram": "https://www.instagram.com/sae_bitsgoa/?hl=en",
     "linkedin": "https://in.linkedin.com/company/saeindia-bits-goa-collegiate-club",
-    "other_social": "https://www.facebook.com/SAE.BITS.Goa/",
-    "whatsapp": "https://chat.whatsapp.com/H3U0wfk5cLVAFQ52tiKX7x?mode=ac_t",
+    "github": "https://www.facebook.com/SAE.BITS.Goa/",
     "image1": "/club-images/Society_of_Automotive_Engineers_Image1.jpg",
     "image2": "/club-images/Society_of_Automotive_Engineers_Image2.jpg"
   },
@@ -103,7 +95,6 @@
     "description": "The Wall Street Club (WSC) is BITS Goa’s original and premier finance club, dedicated to exploring and mastering the world of finance. Our mission is to provide members with cutting-edge financial knowledge, practical skills, and real-world exposure through industry-level projects. WSC offers exclusive access to guest lectures by industry experts, internship opportunities, and active involvement in diverse finance domains, including markets, investing, quantitative analysis, and fintech. We emphasize continuous learning, collaboration, and staying updated with global financial trends. Beyond professional development, WSC is a tight-knit community of driven, like-minded individuals who share a passion for finance and a commitment to excellence. By joining WSC, members gain not only knowledge and experience but also a network that lasts beyond campus life.",
     "instagram": "https://www.instagram.com/wsc.bitsgoa",
     "linkedin": "https://www.linkedin.com/company/wall-street-club-bits-goa",
-    "whatsapp": "https://chat.whatsapp.com/ItcWpgmi5yJ6Fm9wT9k8d3?mode=ems_copy_t",
     "image1": "/club-images/The_Wall_Street_Club___BITS_Goa_Image1.jpeg",
     "image2": "/club-images/The_Wall_Street_Club___BITS_Goa_Image2.jpeg"
   },
@@ -115,8 +106,7 @@
     "description": "The Department of Creative Works (DoCW) is where ideas meet execution, energy, and a dash of madness. We are the creative force behind BITS Goa’s flagship fests Waves, Quark, and Spree, creating crowd favourite events like Paintball, Laser Tag, Glow Party, Silent Disco, Hogathon, Drinkathon, Crime Scene Investigation, Escape Rooms, and Auctions. We also host one of Waves’ most awaited nights BITS Goa’s Prom.\nBeyond fests, we make campus life memorable with events like Freshers’ Night and the quirky farewell tradition NaReal Awards. Our work runs year round through three verticals Calling, Design, and Video Editing, each vital to our plans. We thrive on hard work, creative problem solving, and last minute chaos, but also party just as hard. Above all, DoCW is a family, loud, passionate, and always ready to create magic together.",
     "instagram": "https://www.instagram.com/docw_bitsgoa/",
     "linkedin": "https://www.linkedin.com/company/docwbitsgoa/",
-    "other_social": "https://www.facebook.com/DoCWbitsGoa",
-    "whatsapp": "https://chat.whatsapp.com/JrwolDvioKnHuCxcbijxlY",
+    "github": "https://www.facebook.com/DoCWbitsGoa",
     "image1": "/club-images/Department_of_Creative_Works_Image1.jpg",
     "image2": "/club-images/Department_of_Creative_Works_Image2.jpg"
   },
@@ -127,7 +117,28 @@
     "abbreviation": "DoSM",
     "description": "Welcome to DoSM - the team of best negotiators and closers on campus. We bring in brands & the deals that power Waves, Quark, and Spree. From sealing partnerships with national and international names to keeping our legacy sponsors coming back, we make sure our fests are bigger, louder, and unforgettable. Along with other departments, we’re the reason the fests becomes what it is. DoSM isn’t just a department, it’s a place where you learn skills people spend years trying to master: confidence, networking, communication, creative thinking, professionalism, and real, hands-on experience. You’ll pitch to CXOs, close deals, and watch your work transform the fest in real time.And the best part? You’ll find a family for years to come, one that works hard, laughs harder, and parties the hardest. Our motto says it all: We work hard and party harder. Bring your best to inductions cause at DoSM, good simply isn’t good enough.",
     "linkedin": "https://www.linkedin.com/company/department-of-sponsorship-and-marketing-bits-goa/",
-    "whatsapp": "N/A",
+    "image1": "/club-images/Department_of_Sponsorship_and_Marketing_Image1.jpg",
+    "image2": "/club-images/Department_of_Sponsorship_and_Marketing_Image2.jpg"
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "category": "Others",
+    "abbreviation": " and Video Editing",
+    "description": " each vital to our plans. We thrive on hard work",
+    "instagram": " creative problem solving",
+    "linkedin": " and last minute chaos",
+    "github": " but also party just as hard. Above all",
+    "image1": null,
+    "image2": null
+  },
+  {
+    "id": "department-of-sponsorship-and-marketing-1",
+    "name": "Department of Sponsorship and Marketing",
+    "category": "Cultural",
+    "abbreviation": "DoSM",
+    "description": "Welcome to DoSM - the team of best negotiators and closers on campus. We bring in brands & the deals that power Waves, Quark, and Spree. From sealing partnerships with national and international names to keeping our legacy sponsors coming back, we make sure our fests are bigger, louder, and unforgettable. Along with other departments, we’re the reason the fests becomes what it is. DoSM isn’t just a department, it’s a place where you learn skills people spend years trying to master: confidence, networking, communication, creative thinking, professionalism, and real, hands-on experience. You’ll pitch to CXOs, close deals, and watch your work transform the fest in real time.And the best part? You’ll find a family for years to come, one that works hard, laughs harder, and parties the hardest. Our motto says it all: We work hard and party harder. Bring your best to inductions cause at DoSM, good simply isn’t good enough.",
+    "linkedin": "https://www.linkedin.com/company/department-of-sponsorship-and-marketing-bits-goa/",
     "image1": "/club-images/Department_of_Sponsorship_and_Marketing_Image1.jpg",
     "image2": "/club-images/Department_of_Sponsorship_and_Marketing_Image2.jpg"
   },
@@ -139,7 +150,6 @@
     "description": "BPGC Drama Club is the heart of theatre on campus, bringing together passionate storytellers, actors, writers, and directors to create unforgettable stage and street play experiences. From intense dramas to lighthearted comedies, the club explores diverse genres, experimenting with scripts, lighting, music, and movement to bring stories to life. Beyond performances, it’s a space for creative collaboration, skill-building, and self-expression, where every member has a voice and every story matters.",
     "instagram": "https://www.instagram.com/bpgcdramaclub?igsh=ZWh0ZzRjbDl5aW9q",
     "linkedin": "https://www.linkedin.com/company/the-drama-club-bits-goa/",
-    "whatsapp": "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/JPXPsIsoC289iVdiGwvHaV?mode=ac_t",
     "image1": "/club-images/The_Drama_Club_Image1.jpeg",
     "image2": "/club-images/The_Drama_Club_Image2.jpeg"
   },
@@ -150,7 +160,6 @@
     "abbreviation": "AlgoManiaX",
     "description": "AlgoManiaX is the competitive programming club of BITS Goa, committed to fostering a strong coding culture on campus. We regularly conduct teaching sessions and Codeforces upsolving sessions — all open to every student — to help participants learn from real contest problems.\n\nExperienced mentors guide juniors, helping them strengthen their algorithmic skills and prepare for both competitive programming and IT placements. We also organize institute-wide contests, encouraging participation and healthy competition.\n\nThese initiatives have boosted BITS Goa’s presence in global contests like Meta HackerCup and ICPC, with members achieving commendable results. Our goal is to represent BITS Goa at the ICPC World Finals while continuing to mentor future participants, creating a passionate, self-sustaining community that excels in problem solving and inspires peers to aim higher.",
     "instagram": "https://www.instagram.com/algomaniax?igsh=a2J2enBndjY3N3F0",
-    "whatsapp": "https://chat.whatsapp.com/I5l0F4cnPcXLVyz1d1DZd6?mode=ac_t",
     "image1": "/club-images/AlgoManiaX_Image1.jpeg",
     "image2": "/club-images/AlgoManiaX_Image2.jpeg"
   },
@@ -162,8 +171,7 @@
     "description": "ERC-BPGC Robotics Club Inductions 🚀\n\nAre you fascinated by robots, automation, and the limitless possibilities of technology?\nThe Electronics and Robotics Club (ERC-BPGC) is calling all innovators, tinkerers, and dreamers to join our community!\n\nFrom building autonomous bots to working on cutting-edge robotics projects, we push the boundaries of creativity and engineering. Whether you’re into mechanical design, electronics, coding, AI, or just curious about robotics, there’s a place for you here.\n💡 No prior experience needed – just passion and the urge to learn!",
     "instagram": "erc_bitsgoa",
     "linkedin": "Electronics & Robotics Club, BITS Goa",
-    "other_social": "https://github.com/ERC-BPGC",
-    "whatsapp": "https://chat.whatsapp.com/K6FqhvYYYmLFT7VoRTU0Co",
+    "github": "https://github.com/ERC-BPGC",
     "image1": "/club-images/Electronics_and_robotics_club_Image1.png",
     "image2": "/club-images/Electronics_and_robotics_club_Image2.png"
   },
@@ -174,7 +182,6 @@
     "abbreviation": "DoSaR",
     "description": "DoSaR handles campus surveillance during fests, registers outside participants, issues and scans passes for fest nights, ensures security, and serves as the backbone of the entire fest.",
     "instagram": "https://www.instagram.com/dosar_bitsgoa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    "whatsapp": "https://chat.whatsapp.com/LZHDJMsWIhrJt5CGjAvhdW?mode=ac_t",
     "image1": "/club-images/Department_of_Surveillance_and_Registration_Image1.jpg",
     "image2": "/club-images/Department_of_Surveillance_and_Registration_Image2.jpg"
   },
@@ -183,36 +190,12 @@
     "name": "Gurjari BITS Goa",
     "category": "Cultural",
     "abbreviation": "Gurjari",
-    "description": "Gurjari is the official Gujarati community of Bits Goa.\nWhat do we do? We organize the biggest regional fest of Bits Goa--Garba Night.\nAlong with that, we also have a 3-day workshop in which we along with the help of others, teach garba to anyone interested.\nWe don't have any formal inductions of sorts, if you're gujju, or have a keen interest in the gujarati culture, just join the official whatsapp group and you will be a part of Gurjari from then onwards.",
-    "instagram": "https://www.instagram.com/gurjari_bitsgoa?igsh=dzM0eHd1cTE4eWpu",
-    "linkedin": "https://www.linkedin.com/company/gurjari-bits-goa/",
-    "whatsapp": "https://chat.whatsapp.com/Brv5VKMo7RNFitWRITwblB?mode=ac_t",
-    "image1": "/club-images/Gurjari_BITS_Goa_Image1.jpg",
-    "image2": "/club-images/Gurjari_BITS_Goa_Image2.jpg"
-  },
-  {
-    "id": "film-making-club",
-    "name": "Film Making Club",
-    "category": "Cultural",
-    "abbreviation": "FMaC",
-    "description": "The Film Making Club (FMaC) is a collective of writers, actors, cinematographers, sound designers, and music producers. The club has produced multiple award-winning, nominated films and original soundtracks. FMaC is the campus's best club for a truly wholesome filmmaking experience. Members don't just develop skills across the entire production spectrum, they also build a tangible portfolio of high quality projects while experiencing the joy of filmmaking. Regular workshops ensure that anyone can learn, regardless of experience level, and there are no prerequisites to join. This environment fosters connections with like minded peers and facilitates networking within the industry as well, making FMaC a stepping stone in any member’s filmmaking journey. ",
-    "instagram": "https://www.instagram.com/fmac_bitsgoa/",
-    "whatsapp": "https://chat.whatsapp.com/En52ihMmSor5gK8nIUMIPS",
-    "image1": "/club-images/Film_Making_Club_Image1.jpg",
-    "image2": "/club-images/Film_Making_Club_Image2.jpg"
-  },
-  {
-    "id": "department-of-publicity-and-public-relations",
-    "name": "Department of Publicity and Public Relations",
-    "category": "Cultural",
-    "abbreviation": "DePP",
-    "description": "The Department of Publicity and PR (DEPP) is the driving force behind every BITS Goa fest. With a nationwide database of Points of Contact (POCs), we conduct large-scale calling sessions, PR drives both inside and outside campus, and publicity meets to ensure maximum participation. From on-campus buzz to nationwide outreach, we connect directly with colleges, clubs, and cultural circles. Our role extends beyond publicity — we coordinate participant accommodation, manage official social media handles on Instagram, Facebook, and YouTube, and craft strategies that keep the fest in the spotlight. Every post, call, and campaign is part of a bigger plan to fill the grounds with energy. DEPP blends strategy, creativity, and relentless execution to turn ideas into the chaos and celebrations that define the fest.",
+    "description": "Gurjari is the official Gujarati community of Bits Goa.\nWhat do we do? We organize the biggest regional fest of Bits Goa--Garba Night.\nAlong with that, we also have a 3-day workshop in which we along with the help of others, teach garba to anyone interested.\n8/15/2025 12:53:43,f20230910@goa.bits-pilani.ac.in,Department of Publicity and Public Relations,DePP,\"The Department of Publicity and PR (DEPP) is the driving force behind every BITS Goa fest. With a nationwide database of Points of Contact (POCs), we conduct large-scale calling sessions, PR drives both inside and outside campus, and publicity meets to ensure maximum participation. From on-campus buzz to nationwide outreach, we connect directly with colleges, clubs, and cultural circles. Our role extends beyond publicity — we coordinate participant accommodation, manage official social media handles on Instagram, Facebook, and YouTube, and craft strategies that keep the fest in the spotlight. Every post, call, and campaign is part of a bigger plan to fill the grounds with energy. DEPP blends strategy, creativity, and relentless execution to turn ideas into the chaos and celebrations that define the fest.",
     "instagram": "https://www.instagram.com/deppbitsgoa?igsh=MW5iN3JuOWhmbGptNw==",
     "linkedin": "https://www.linkedin.com/company/bitsdepp/",
-    "other_social": "https://www.facebook.com/share/171Tu3aW8f/",
-    "whatsapp": "https://chat.whatsapp.com/FXxdm15NU334gblQFQpCm4?mode=ac_t",
-    "image1": "/club-images/Department_of_Publicity_and_Public_Relations_Image1.png",
-    "image2": "/club-images/Department_of_Publicity_and_Public_Relations_Image2.jpg"
+    "github": "https://www.facebook.com/share/171Tu3aW8f/",
+    "image1": "/club-images/Gurjari_BITS_Goa_Image1.jpg",
+    "image2": "/club-images/Gurjari_BITS_Goa_Image2.jpg"
   },
   {
     "id": "fashion-club",
@@ -221,7 +204,6 @@
     "abbreviation": "Fash",
     "description": "The Fashion Club is a student body that brings together creativity, style, and performance. Our flagship participation is in Waves, BITS Goa’s cultural fest, where we compete in the Fashion Parade—one of the Big 4 events—showcasing themed collections that combine choreography, music, and costume design. The club has a legacy of multiple wins, owing to our commitment to originality, teamwork, and meticulous preparation.\nThroughout the year, we do multiple fashion parade performances. Our members work across designing outfits, music selection, makeup, and stage direction, ensuring each performance tells a story.\nThe Fashion Club offers a platform for students to express themselves and gain confidence while working in a highly collaborative and creative environment.",
     "instagram": "https://www.instagram.com/fashionclub.bpgc?igsh=MTg5ZG0wMDM0eGZobg==",
-    "whatsapp": "https://chat.whatsapp.com/F2hQHIqgnw88KvPVyLo74Z?mode=ems_copy_c",
     "image1": "/club-images/Fashion_Club_Image1.jpeg",
     "image2": "/club-images/Fashion_Club_Image2.jpeg"
   },
@@ -233,8 +215,7 @@
     "description": "The Electronics and Robotics Club (ERC) is a student-driven community passionate about electronics, machine learning, and mechanical design. Founded in 2008, it has grown into a hub for hands-on innovation in robotics.\n\nERC fosters collaboration through structured teams working on diverse projects, from hardware design to full-fledged robots. Over the years, we have shifted from competitions to research-driven projects tackling real-world challenges while staying at the forefront of industry advancements.\n\nOngoing Research Projects:\n* Vulcan \n* SpiderBot \n* SnakeBot \n* Drone Automation\n* Quadruped\n* Robotic Arm\n* Swarm Bots\n* Embedded Systems\n\nBeyond research, ERC’s exhibition projects at Quark, our annual tech fest, are both technical marvels and crowd favorites.\n\nWe welcome all passionate engineers, coders, and makers—reach out and be part of our journey!",
     "instagram": "@erc_bitsgoa",
     "linkedin": "https://www.linkedin.com/company/electronics-robotics-club-bits-goa",
-    "other_social": "https://github.com/ERC-BPGC",
-    "whatsapp": "https://chat.whatsapp.com/CG1fazPOFj9Fljz5fL94wP?mode=ac_t",
+    "github": "https://github.com/ERC-BPGC",
     "image1": "/club-images/Electronics_and_Robotics_Club_Image1.jpg",
     "image2": "/club-images/Electronics_and_Robotics_Club_Image2.jpg"
   },
@@ -245,7 +226,6 @@
     "abbreviation": "Mime Club",
     "description": "At Mime Club, we specialise in the art of silent storytelling; performing without words or dialogue, relying instead on creativity, expression, and the power of body language. We bring this craft to life through three captivating forms: Skime, Shadow, and UV performances.\nFor us, Mime is more than just a club; it’s a family, where passion meets creativity and a hell lot of fun!\n",
     "instagram": "https://www.instagram.com/mimeclub.bpgc?igsh=cnkxNWViaWQ5MHNm&utm_source=qr",
-    "whatsapp": "None",
     "image1": "/club-images/Mime_Club_BITS_Goa_Image1.jpeg",
     "image2": "/club-images/Mime_Club_BITS_Goa_Image2.jpeg"
   },
@@ -257,8 +237,7 @@
     "description": "Srutilaya is BITS Goa's classical arts club. We are a collection of performers and enthusiasts of all forms of Indian classical music and dance. We hold Sursangam, our annual flagship concert, along with other annual performances like Tyagaraja Aradhana and Ram Navami. Alongside these, we also hold frequent baithaks and perform for conferences, festivals and other community events. Between rehearsals, event planning, and post-performance naps and snacks, we've perfected the balance between rigorous practice and absolute nonsense. At heart, we’re a close-knit, slightly chaotic family that performs, hosts, learns, and laughs - keeping the spirit of classical arts alive in our own way.",
     "instagram": "@srutilayabpgc",
     "linkedin": "Srutilaya || BITS Pilani K. K. Birla Goa Campus",
-    "other_social": "Facebook - Srutilaya",
-    "whatsapp": "https://chat.whatsapp.com/HoF9mxGx55OC24jDY0CNly?mode=ac_t",
+    "github": "Facebook - Srutilaya",
     "image1": "/club-images/Srutilaya_Image1.jpg",
     "image2": "/club-images/Srutilaya_Image2.jpg"
   },
@@ -270,7 +249,6 @@
     "description": "The Dance Club, BITS Goa, is a vibrant community of passionate dancers united by a shared love for movement and expression. Covering a wide range of dance styles, we provide a platform for students to learn, grow, and perform whether they are seasoned dancers or complete beginners. More than just a club, we are a close-knit family that thrives on collaboration, creativity, and the joy of dance.\n\nEach year, we proudly perform at the inauguration of Waves, the cultural fest of BITS Goa, showcasing high-energy performances that set the tone for the celebration. Our flagship event, Dance Night, is an annual showcase exclusively by club members, highlighting our talent and versatility. We also participate in various competitions group, duet, and solo on and off campus.\n\nAt our core, we encourage everyone to break their barriers, explore diverse styles, and build bonds that go far beyond the stage.",
     "instagram": "@danceclubbitsgoa",
     "linkedin": "UNIΦ -Dance Club, BITS Goa",
-    "whatsapp": "https://chat.whatsapp.com/JxEJo6aHej32WFh8Da5RaU",
     "image1": "/club-images/Unify_-_Dance_Club_BITS_Goa_Image1.jpg",
     "image2": "/club-images/Unify_-_Dance_Club_BITS_Goa_Image2.jpg"
   },
@@ -282,8 +260,7 @@
     "description": "Founded in 2008, the Department of Journalism and Media Affairs (DoJMA) is a student led body dedicated to amplifying campus voices with fearless, investigative journalism. With a legacy built on journalistic integrity and bold advocacy, DoJMA has been delivering news to students and alumni for over 17 years. More than a news outlet, it has become an integral component for change on controversial and pressing issues. Rooted in its commitment to truth and empowerment, DoJMA remains a hub where reporting meets the conscience of campus life.",
     "instagram": "https://www.instagram.com/dojma_bitsgoa",
     "linkedin": "https://www.linkedin.com/company/dojmabitsgoa/",
-    "other_social": "https://m.facebook.com/DoJMABITSGoa/",
-    "whatsapp": "https://chat.whatsapp.com/KNXrVgBnj4sLXmusxqf4Cm?mode=ems_copy_t",
+    "github": "https://m.facebook.com/DoJMABITSGoa/",
     "image1": "/club-images/Department_of_Journalism_and_Media_Affairs_Image1.png",
     "image2": "/club-images/Department_of_Journalism_and_Media_Affairs_Image2.jpeg"
   },
@@ -295,7 +272,6 @@
     "description": "The Center for Technical Education (C.T.E.), established in 2012, is BITS's largest technical organization, offering courses not covered extensively in the curriculum. Taught by experienced seniors, courses include Competitive Coding, AI, Investing, Consulting, Product Design and many more subjects that go beyond the classroom. Classes are held post-college hours, with evaluative components and flexible un-enrollment. Participants receive certificates, and top performers get merit certificates with fee reimbursement.\n\nC.T.E. operates as a not-for-profit, using registration fees for campus-enhancing programs and project funding through the Technology Incubator Program. where students with promising ideas can apply for grants.\n\nAdditionally, C.T.E. conducts outreach programs, inviting nearby schools to teach basic technical courses, collaborating with campus clubs and local institutions to extend its impact beyond campus.",
     "instagram": "ctebpgc",
     "linkedin": "Center for Technical Education, BITS Goa",
-    "whatsapp": "https://chat.whatsapp.com/Kebew7hcTtb0ZywnfBe1JO?mode=ac_t",
     "image1": "/club-images/Center_for_Technical_Education_Image1.jpeg",
     "image2": "/club-images/Center_for_Technical_Education_Image2.jpeg"
   },
@@ -307,7 +283,6 @@
     "description": "Society of Finance & Investing (SoFI) is the finance society of BITS Pilani, K. K. Birla Goa Campus, dedicated to strengthening the finance culture on campus. We aim to equip students with practical skills, industry knowledge, and a problem-solving mindset through hands-on learning.\n\nOur flagship semester-long courses — Investing 101 and Investing 102 — take students from the basics of investing to advanced market strategies. We also run the Summer Series during vacations, offering workshops on specialized finance topics.\n\nLast semester, we ventured into equity research, producing professional reports. Today, we work with two external clients, delivering high-quality market insights.\n\nOur Algo Labs vertical merges finance with technology, building custom financial tools and automated solutions for clients.\n\nAt SoFI, we believe finance is best learned by doing — through projects, live research, and collaboration — creating a vibrant community passionate about markets and investing.",
     "instagram": "https://www.instagram.com/sofibitsgoa",
     "linkedin": "https://www.linkedin.com/company/society-of-finance-and-investing-sofi",
-    "whatsapp": "https://chat.whatsapp.com/F30v5z5LQuV1uqIU6q2NQu?mode=ac_t",
     "image1": "/club-images/Society_of_Finance___Investing_Image1.png",
     "image2": "/club-images/Society_of_Finance___Investing_Image2.png"
   },
@@ -318,7 +293,6 @@
     "abbreviation": "ProNights",
     "description": "Welcome to the Department of Professional Nights! Our department plays a pivotal role in enriching campus life through two main initiatives. First, we organize and bring renowned artists to perform at our fests of Waves, PreWaves, Quark, and Spree, featuring celebrated talents like Sunidhi Chauhan, Amit Trivedi, Mohit Chauhan and many more. Second, we host Searock, India’s largest semi-professional band competition, now in its 20th edition. Searock has conducted eliminations across 12+ cities, including international rounds in Kathmandu, Nepal, making it the biggest event of its kind in India. The semi-finals and finals take place annually at Waves, showcasing top emerging bands like Zygnema and The Family Cheese, with finalists having opened for major acts like The Local Train, As We Keep Searching, and Pineapple Express. In Waves 2024, Searock featured a prize pool of ₹1.25 lakhs, continuing its legacy of supporting and promoting musical talent.",
     "instagram": "searockbits",
-    "whatsapp": "https://chat.whatsapp.com/EdsXhQPU0RNJ8slTBVNzGG",
     "image1": "/club-images/Department_Of_Professional_Nights_Image1.png",
     "image2": "/club-images/Department_Of_Professional_Nights_Image2.png"
   },
@@ -329,7 +303,6 @@
     "abbreviation": "Backstage",
     "description": "The Department of Backstage and Infrastructure Management is where the magic happens before the spotlight turns on. We build stages, run lights, and set the mood with music that gets the crowd moving - from high-energy DJ sets to perfect sound for every moment. From huge fests to small campus nights, we handle everything behind the scenes so it’s all smooth on stage. If it looks great and sounds amazing, that’s probably us.",
     "instagram": "https://www.instagram.com/backstage.bitsgoa?igsh=MWc2aWV3a3o0OWlxcA%3D%3D&utm_source=qr",
-    "whatsapp": "https://chat.whatsapp.com/CL6vVRQ18sgBt6EcceAtuQ?mode=ac_t",
     "image1": "/club-images/Department_of_Backstage_And_Infrastructure_Management_Image1.jpg",
     "image2": "/club-images/Department_of_Backstage_And_Infrastructure_Management_Image2.png"
   },
@@ -341,7 +314,6 @@
     "description": "At Do Well Do Good (DWDG), the student-led consulting club of BITS Pilani, Goa Campus, we combine strategy consulting expertise with a strong sense of purpose. We work with startups, NGOs, and social enterprises to refine business models, strengthen marketing, streamline operations, and create measurable social impact. By blending management consulting frameworks with mission-driven thinking, we go beyond profit to deliver meaningful change. If you join us, you’ll work on real-world projects—conducting market research, optimizing operations, designing fundraising strategies, and measuring impact. You’ll develop sharp business skills, collaborate with passionate peers, and contribute to projects that truly make a difference.",
     "instagram": "https://www.instagram.com/dwdg.bitsgoa?igsh=Z2ZpeGViYTNwb2p3",
     "linkedin": "https://www.linkedin.com/company/dwdgbitsgoa/",
-    "whatsapp": "https://chat.whatsapp.com/C5uEiQExQx89ks3O522Z3A?mode=ems_copy_c",
     "image1": "/club-images/Do_Well_Do_Good_Future_Leaders_-_BITS_Goa_Chapter_Image1.png",
     "image2": "/club-images/Do_Well_Do_Good_Future_Leaders_-_BITS_Goa_Chapter_Image2.png"
   },
@@ -353,8 +325,7 @@
     "description": "BITS Goa Quiz Club (BGQC)\nEstablished in 2006, the BITS Goa Quiz Club is the oldest club on campus and a hub for curiosity, wit, and learning. Over the years, we’ve built the largest alumni network of any club here, with members excelling in quizzing and beyond. Recognized as one of the leading student quiz clubs in India, we host everything from fun, themed quizzes to intense, high-stakes competitions.\n\nOpportunities for Students:\n\nCompete in prestigious quizzes against teams from IITs, IIMs, and other top institutions.\n\nShare and enjoy fascinating trivia and fundas with like-minded peers.\n\nLearn to host, address, and engage large audiences with confidence.\n\nNetwork with our vast alumni base for mentorship and career opportunities.\n\nWhether you’re an experienced quizzer or someone who just enjoys learning quirky facts, BGQC has a place for everyone.",
     "instagram": "@bitsgoaquizclub",
     "linkedin": "https://www.linkedin.com/company/bits-goa-quiz-club",
-    "other_social": "https://www.facebook.com/qcbitsg/",
-    "whatsapp": "https://chat.whatsapp.com/EEWbLDMr2Mh5UH6u7QRRL9?mode=ems_copy_c",
+    "github": "https://www.facebook.com/qcbitsg/",
     "image1": "/club-images/BITS_Goa_Quiz_Club_Image1.jpg",
     "image2": "/club-images/BITS_Goa_Quiz_Club_Image2.jpg"
   },
@@ -365,7 +336,6 @@
     "abbreviation": "PV",
     "description": "Punjabi Virsa is a vibrant community that celebrates Punjabi heritage while welcoming students from all backgrounds. We host lively events throughout the year—from energetic Bhangra to festive gatherings like Gurdwara visit on Gurpurav and Bhangra Night during Lohri. Beyond cultural showcases, we foster friendships, inclusivity, and a sense of belonging for everyone, whether you’re Punjabi by birth or simply curious to explore the culture. Punjabi Virsa is a home away from home, where traditions meet campus life and every member contributes to our shared spirit of fun, unity, and cultural pride.",
     "instagram": "@pv_bpgc",
-    "whatsapp": "https://chat.whatsapp.com/Hm6ce7yhkyh7DeObctBLdv?mode=ac_t",
     "image1": "/club-images/Punjabi_Virsa_Image1.jpg",
     "image2": "/club-images/Punjabi_Virsa_Image2.jpg"
   },
@@ -377,7 +347,6 @@
     "description": "For 16 years, BITSMUN has been the official Model United Nations conference of BITS Pilani Goa Campus. It welcomes over 400 delegates from across India and abroad, along with renowned guests such as Kiran Bedi and Smriti Irani. A Model United Nations simulates sessions of the UN, where participants represent countries, debate pressing global issues and work towards solutions.\n\nWe are more than an event; we are a mini-fest in ourselves, managing everything from sponsorship outreach to researching topics, curating committees, overseeing logistics and hosting VIPs with precision. The conference runs like a professional operation with formal suits, engaging debates and the thrill of diplomacy.\n\nWe also host a socials night, a one-evening networking event where the organising team and delegates connect beyond the committee rooms. Whether you’re interested in public speaking, event management or international affairs, BITS MUN offers a platform to learn, lead and build lasting connections.",
     "instagram": "https://www.instagram.com/bitsmun_goa?igsh=dzZsMjl6azZia3Q0",
     "linkedin": "https://www.linkedin.com/company/bitsmun-goa/",
-    "whatsapp": "https://chat.whatsapp.com/F0XEn1Iy3qdFbpbZOD3c5Y?mode=ac_t",
     "image1": "/club-images/BITS_Model_United_Nations_Image1.jpg",
     "image2": "/club-images/BITS_Model_United_Nations_Image2.jpg"
   },
@@ -389,8 +358,7 @@
     "description": "BITSkrieg is the cybersecurity club of BITS Pilani, Goa Campus, dedicated to exploring and excelling in the domain of cybersecurity. We primarily hone our skills through Capture the Flag (CTF) competitions, global online events hosted by leading universities worldwide.\nBeyond active participation, we also organize our own annual global CTF during Quark, attracting over 5,000 participants this year. Our collaborations include NULLCON, one of the largest cybersecurity conferences, hosted at BITS Goa last year.\nThrough consistent effort, BITSkrieg has achieved remarkable results; peaked at rank #1 in the world and securing the top position in India. Our members continually push boundaries by competing in diverse events and tackling challenging problem statements.",
     "instagram": "https://www.instagram.com/bitskrieg.bitsgoa",
     "linkedin": "https://www.linkedin.com/company/bitskrieg/",
-    "other_social": "https://github.com/bitskriegofficial",
-    "whatsapp": " ‪https://chat.whatsapp.com/G0hucISnhgx7EMI5ns9K7A?mode=ac_t",
+    "github": "https://github.com/bitskriegofficial",
     "image1": "/club-images/BITSkrieg_Image1.png",
     "image2": "/club-images/BITSkrieg_Image2.png"
   },
@@ -402,7 +370,6 @@
     "description": "The Department of Arts n Deco is where creativity meets execution! 🎨✨ We bring fests and events to life with large-scale structures, beautiful rangolis, and theme-based campus decor. From building iconic pieces like Michael Jackson, Charlie Chaplin, and Mini P.E.K.K.A to crafting intricate rangolis for Independence Day, our work adds the extra charm that makes every celebration unforgettable. If you love transforming ideas into eye-catching art, this is your place to shine! 🌟",
     "instagram": "artsndeco",
     "linkedin": "Department of Arts and Decoration",
-    "whatsapp": "https://chat.whatsapp.com/DeSgmRTj11ZJLXkFqkraHg?mode=ac_t  ",
     "image1": "/club-images/Department_of_Arts_and_Decoration_Image1.jpg",
     "image2": "/club-images/Department_of_Arts_and_Decoration_Image2.jpg"
   },
@@ -414,7 +381,6 @@
     "description": "Kala is the Fine Arts Club of BITS Goa, and for us, painting isn’t just something you do alone in a corner, it’s something you share. We’re the most alive when we’re on stage during fests, working on a canvas together while people watch the artwork grow with every stroke. There’s music, there’s colour, there’s a little bit of chaos, and somehow it all comes together into something we’re proud of. Every painting we make holds the memory of that night, all the tiny mistakes that turned into our favourite details. Kala is a space for people who love painting and want to create in a way that’s fun, connected, and a little bit magical.",
     "instagram": "kala_bitsg",
     "linkedin": "Kala Fine Arts Club",
-    "whatsapp": "https://chat.whatsapp.com/Dr5NCkAI7W0BDaRdOylBrx?mode=ac_t",
     "image1": "/club-images/Kala_Fine_Arts_Club_Image1.jpg",
     "image2": "/club-images/Kala_Fine_Arts_Club_Image2.jpg"
   },
@@ -426,7 +392,6 @@
     "description": "Ethos is the Indology club of BITS Goa focusing on studying and popularizing Indian Culture, Heritage, and aspects of our rich History that are  relatively unknown to us. The club works to disseminate this information through various fun activities such as Quizzes, Heritage Tours and Guest Lectures to acquaint everyone with our diverse Indian culture in a fun way. Not only history geeks, but writers, designers and video editors are an essential part of the club ecosystem as well. If you want to experience, celebrate and contribute to the Indic renaissance, the BITS way, look no further than this club!",
     "instagram": "https://www.instagram.com/ethos.bitsgoa?igsh=OXdpYWIycGlzdnow",
     "linkedin": "https://www.linkedin.com/company/ethos-bits-goa/",
-    "whatsapp": "https://chat.whatsapp.com/LBo4jwcrWOCJHRvuCMWMjr?mode=ac_t",
     "image1": "/club-images/Ethos_Image1.jpg",
     "image2": "/club-images/Ethos_Image2.jpg"
   },
@@ -438,8 +403,7 @@
     "description": "We are Synchronoise, an a-cappella crew from BITS Goa. We make music using only the human voice—melody, harmony, and rhythm, entirely without instruments. You’ll see us perform at major campus events like Zephyr, Waves and our own event, Octave, in the first semester at the LT3/LT4 lawns, and our stand-alone, second semester show Synchronite. We’re active on social media and love connecting with people there, but more than anything, we’re a fun and loving family on campus, united by our passion for making music together.",
     "instagram": "https://www.instagram.com/synchronoisebitsg (@synchronoisebitsg)",
     "linkedin": "N/A",
-    "other_social": "N/A",
-    "whatsapp": "https://chat.whatsapp.com/Bqbynf61nF7F1J5DVmNjuR?mode=ac_t",
+    "github": "N/A",
     "image1": "/club-images/Synchronoise_BITS_Goa_Acapella_Crew_Image1.jpg",
     "image2": "/club-images/Synchronoise_BITS_Goa_Acapella_Crew_Image2.jpg"
   },
@@ -450,7 +414,6 @@
     "abbreviation": "BITS UFC",
     "description": "BITS UFC is the Ultimate Frisbee team of BITS Pilani KK Birla Goa Campus. We are recognized as one of the oldest college ultimate teams and are one of the most decorated. Ultimate is a mixed(involves both boys and girls) non-contact sport. We participate in college-level as well as club-level ultimate competitions representing BITS Goa. Our club requires 0 prior experience to enter and we help each other bring our skills to the next level in order to win such competitions. We have won several major competitions in the past including the prestigious NCUC(National College Ultimate Championships) and our alums have gone on to be players in many major level clubs. ",
     "instagram": "bitsufc",
-    "whatsapp": "https://chat.whatsapp.com/GoVCTO26juvEESfoYzJttU?mode=ac_t",
     "image1": "/club-images/BITS_Ultimate_Frisbee_Club_Image1.jpg",
     "image2": "/club-images/BITS_Ultimate_Frisbee_Club_Image2.jpg"
   },
@@ -462,7 +425,6 @@
     "description": "From the heart of our campus rises a force, forged in the warmth of shared language and the fire of shared culture—the Telugu Samithi. It is not merely a club; it is the organized expression of a people bound together by memory, tradition, and the unwavering will to stand united.\n\nWe are the inheritors of a legacy—the spirit that gave birth to Lite, that organized the most vibrant festivities our campus has seen, that brought joy to hundreds through the simple acts of gathering, celebrating, and remembering who we are. Ours is a student-first policy not in words alone, but in action—ensuring that every comrade finds joy, connection, and belonging under our banner.\n\nOur outings, our lunches, our films—these are not idle diversions, but living affirmations of unity, of the unbreakable link between our past and our present. We declare to all: our strength is not in mere numbers, but in the sense of togetherness that no force can divide.\n\nComrades, we march forward—carrying with us the faces, the voices, and the memories of all who have stood here before us. This is our heritage. This is our fight. And together, we will keep it alive.",
     "instagram": "https://www.instagram.com/telugusamithi",
     "linkedin": "www.linkedin.com/in/telugusamithi-bpgc",
-    "whatsapp": "https://chat.whatsapp.com/HhK2hC13nf5B3NYtlm5r8e?mode=ac_t",
     "image1": "/club-images/Telugu_Samithi_Image1.JPG",
     "image2": "/club-images/Telugu_Samithi_Image2.png"
   },
@@ -473,7 +435,6 @@
     "abbreviation": "SSC",
     "description": "The Silver Screen Club is the go-to club for screening movies on campus, turning the college auditorium into a theater. We pick movies that range from classics to the latest movies; that inspire, entertain, and engage the audience. Our screenings provide the opportunity to show and discuss films from a variety of genres, cultures, and ways of storytelling that aim to have members responding to movies in a deeper way. Beyond the movie, we hold discussions that have students sharing observations, debating thoughts, treasuring their love for movies, and connecting with each other to enjoy common interests. Whether you love the nostalgic feel of old Hollywood, the poignancy of international cinema, or the vision of independent films, the Silver Screen Club is there to gather you to share the powerful stories that permeate through films, all in the light of the silver screen.",
     "instagram": "silverscreen.bitsgoa",
-    "whatsapp": "https://chat.whatsapp.com/CI5YFcShzkj31EgeFRCAzC?mode=ac_t",
     "image1": "/club-images/Silver_Screen_Club_Image1.jpg",
     "image2": "/club-images/Silver_Screen_Club_Image2.jpg"
   },
@@ -485,7 +446,6 @@
     "description": "The BITS Goa Consulting Club (BGCC) is the premier student-run consulting body of BITS Pilani, Goa Campus, delivering high-impact solutions to businesses across industries. Since its inception, BGCC has successfully executed 75+ consulting projects for leading corporates, startups, and institutions, including Mahindra, Muthoot Business School, Goa Chamber of Commerce and Industries, Hiwipay, Rigi, and Criyagen.\n\nOur members are skilled in strategy, market research, competitive analysis, and financial modelling, enabling us to deliver data-backed, actionable recommendations. BGCC has worked across diverse domains such as automotive, fintech, agribusiness, SaaS, and education, consistently driving measurable results.\n\nBeyond client work, BGCC has organised 10+ flagship events, and conducts educational courses, training students in problem-solving and industry-relevant skills. With its proven track record, BGCC bridges academia and industry, cultivating a culture of excellence and producing the next generation of impactful consultants.",
     "instagram": "https://www.instagram.com/bgcc.bitsgoa?igsh=MWpyODU5cTZuazJkaQ==",
     "linkedin": "https://www.linkedin.com/company/bits-goa-consulting-club/",
-    "whatsapp": "NA",
     "image1": "/club-images/Bits_Goa_Consulting_Club_Image1.jpg",
     "image2": "/club-images/Bits_Goa_Consulting_Club_Image2.jpg"
   },
@@ -497,7 +457,6 @@
     "description": "Welcome to BGSC – the powerhouse behind BITS Goa’s biggest sporting spectacles.\n\nWhen the season starts, the campus comes alive with our flagship leagues:\n\t•\tAirball – Basketball’s Grand stage.\n\t•\tOffside – Football’s Fiercest battlefield\n\t•\tPowerplay – Cricket at its most electrifying.\n\t•\tThe Mystery League – Secret Sport\n\nThese aren’t just matches they’re events that define the year, pulling players, fans, and the entire campus into the action.\n\nWhen we’re not lighting up the courts and fields, we keep the campus moving with everything from sweat-breaking fitness challenges to mind-strengthening mental health initiatives. BGSC turns wellness into a year-round movement that keeps BITS Goa active, motivated, and at its best.\n\nWe actively seek sponsorships for our leagues and events, using the funds to support our sports teams through reimbursements, equipment upgrades, and travel assistance ensuring BITS Goa athletes can compete at their best.",
     "instagram": "bitsgoasportsclub",
     "linkedin": "https://www.linkedin.com/company/bitsgoasports/",
-    "whatsapp": "https://chat.whatsapp.com/Ek5p2ypYgcd3cKBkLVAnUQ",
     "image1": "/club-images/BITS_Goa_Sports_Club_Image1.jpg",
     "image2": "/club-images/BITS_Goa_Sports_Club_Image2.jpg"
   },
@@ -509,7 +468,6 @@
     "description": "Abhigyaan – Education for All\n\nAt Abhigyaan, you don’t just teach — you touch lives. Since 2005, we’ve been creating equal learning opportunities for underprivileged children and members of the BITS Goa community, guided by our motto “Education for All.”\n\nOur five verticals — Project Lamani, Project Disha, Evening Batch, English Batch, and Mess Batch — give you the chance to connect with people from diverse backgrounds, understand their stories, and help them grow. In the process, you’ll develop empathy, patience, and leadership — qualities that stay with you long after college.\n\nFrom colourful Independence Day celebrations to awareness drives and fun-filled Sports Days, every event is a reminder of the difference you’re making. Volunteers often say they leave each session feeling lighter, happier, and more inspired.\n\nIf you want your time at BITS to be about more than just academics, join Abhigyaan — and experience the joy of changing lives.",
     "instagram": "https://www.instagram.com/abhigyaan_bitsgoa/",
     "linkedin": "https://in.linkedin.com/company/abhigyaan_bitsgoa",
-    "whatsapp": "https://chat.whatsapp.com/CTe4PbKNNXXG6vcrO0KwfJ?mode=ac_t",
     "image1": "/club-images/ABHIGYAAN_Image1.jpg",
     "image2": "/club-images/ABHIGYAAN_Image2.jpg"
   },
@@ -521,7 +479,6 @@
     "description": "Project RT(Radio Telescope) is a project led by undergraduate students of BITS Pilani K. K. Birla Goa Campus. The aim of our project is to design and build a 5-m aperture radio telescope with minimal cost and apply new automation as well as computational techniques. Our aim is to conduct solar observations, track many other celestial objects in the sky and also conduct pulsar observations in the future. The telescope that we are building will serve as the first Radio Telescope of Goa.",
     "instagram": "https://www.instagram.com/rt_bitsgoa?igsh=MWxoMHVueTZrazZndg==",
     "linkedin": "https://www.linkedin.com/company/project-rt-bitsgoa/",
-    "whatsapp": "https://chat.whatsapp.com/IVWrS41N4xTB6aqEOf9g4t?mode=ac_t",
     "image1": "/club-images/Project_Radio_Telescope_Image1.png",
     "image2": "/club-images/Project_Radio_Telescope_Image2.jpg"
   },
@@ -531,7 +488,6 @@
     "category": "Others",
     "abbreviation": "N/A",
     "description": "We are BITS Goa's Girls' Volleyball Team, a group of passionate players who live for the game and thrill of competition. We believe in discipline, resilience and the bond that comes from chasing a goal together. Each serve, set, and spike strengthens the bonds between teammates.\n\nYou're welcome here whether you've been playing volleyball for years or have never touched one. All you need is the eagerness to join a dynamic and encouraging team, the spirit to try, and the willingness to learn. Our practice sessions guarantee that every member develops and discovers their role on the court, from fundamental skills to more complex ones.\n\nWe can't wait to have you on our team!",
-    "whatsapp": "https://chat.whatsapp.com/Iq7WpfeAV5eC6fb62uvRws",
     "image1": "/club-images/BITS_Goa_Girls__Volleyball_Team_Image1.jpg",
     "image2": "/club-images/BITS_Goa_Girls__Volleyball_Team_Image2.jpg"
   },
@@ -543,7 +499,6 @@
     "description": "IEEE BITS Goa Student Chapter offers you unparalleled opportunities to connect with industry leaders, enhance your technical expertise, and build a powerful professional network.\nWhat We Offer:\n1. Lumini Tech Symposium: Our flagship annual event where you'll interact directly with renowned industry professionals and researchers\n2. Expert Workshops: Hands-on sessions to sharpen your technical skills and stay ahead of technological trends\n3. Industry Visits: Exclusive access to leading companies for active members\n4. Professional Certification: Official IEEE certificates for core members\n5. Networking Opportunities: Connect with professors, industry experts, and like-minded peers\nAs part of the world's largest technical professional organization, you'll gain access to cutting-edge research, career guidance, and mentorship from experts across electrical engineering and allied fields.\nJoin us to gain exposure, guidance, and real-world experience that will accelerate your career. Your technical future starts here!",
     "instagram": "https://www.instagram.com/ieee_bits_goa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
     "linkedin": "https://www.linkedin.com/company/ieee-bits-goa-student-chapter/?viewAsMember=true",
-    "whatsapp": "https://chat.whatsapp.com/DJR8F0ADeJ3GEQkUobhkSO?mode=ac_t",
     "image1": "/club-images/IEEE_BITS_Goa_Student_Chapter_Image1.jpg",
     "image2": "/club-images/IEEE_BITS_Goa_Student_Chapter_Image2.jpg"
   },
@@ -554,8 +509,7 @@
     "abbreviation": "SpreeC",
     "description": "At Spree Controls, we’re more than just a feat controls - we’re a family brought together by our love for sports. We’re behind some of BITS Goa’s biggest and most loved events. Every year, we host Spree, the largest intercollegiate sports fest in the region, where athletes from across the country come to compete and celebrate the spirit of the game. On campus, we bring the excitement of Slam, our interhostel tournament that sparks friendly rivalry and hostel pride. Through Udaan, we create a special sports day for specially-abled children, filled with joy, laughter, and inclusion. Our Spree Marathon challenges participants to push their limits, while our sports workshops give students the chance to learn and grow with expert guidance.\n\nFor us, it’s not just about the events - it’s about the bonds we build, the memories we create, and the passion we share",
     "instagram": "@spree_controls",
-    "other_social": "https://m.facebook.com/@spreecontrols/?hr=1&wtsid=rdr_07osNEcq729mUryTb",
-    "whatsapp": "https://chat.whatsapp.com/CBjtRL3w9lT7MXqD5GYrkq",
+    "github": "https://m.facebook.com/@spreecontrols/?hr=1&wtsid=rdr_07osNEcq729mUryTb",
     "image1": "/club-images/Spree_Controls_Image1.jpg",
     "image2": "/club-images/Spree_Controls_Image2.png"
   },
@@ -567,7 +521,6 @@
     "description": "SEDS Celestia is the Astronomy, Space Tech, Astrophysics, and Cosmology club of BITS Pilani Goa. We organize lectures by eminent professors, hands-on projects, and exhibitions as part of our technical fest. For those passionate about space tech, we offer exciting projects in Rocketry, Cansat, Simulations, Cubesat, and more. Our stargazing nights and annual ‘Star Party’ provide unforgettable opportunities to observe the cosmos and connect with fellow enthusiasts under the night sky. Whether you're an aspiring scientist, engineer, or simply curious about the universe, SEDS Celestia offers a platform to explore, learn, and grow.",
     "instagram": "sedscelestia",
     "linkedin": "SEDS Celestia",
-    "whatsapp": "https://chat.whatsapp.com/CEjr3rtBJ5r3Sm1zJzS1L7?mode=ac_t",
     "image1": "/club-images/SEDS_Celestia_Image1.jpeg",
     "image2": "/club-images/SEDS_Celestia_Image2.jpg"
   },
@@ -579,8 +532,7 @@
     "description": "DevSoc, the Developers’ Society at BITS Goa, is at the heart of the campus tech scene, vibrant with collaborative learning and community-driven innovation. Here, students from all backgrounds join forces to tackle real-world challenges, building impactful apps like fest management tools, grievance redressal platforms, and hostel utility solutions that enrich everyday student life. The club regularly organizes exciting hackathons, where members collaborate, brainstorm creative ideas, and compete to develop cutting-edge solutions in a fast-paced environment. These events foster teamwork and expose participants to practical problem-solving while offering a chance to showcase their skills. Within DevSoc, knowledge is freely shared, mentorship is strongly encouraged, and everyone is empowered to upskill—be it learning modern tools, mastering new technologies, or contributing to cool open-source projects. By joining DevSoc, you become part of a lively, supportive community that not only improves campus life but also shapes you into a confident, innovative developer.",
     "instagram": "https://www.instagram.com/devsocbitsgoa/",
     "linkedin": "https://www.linkedin.com/company/devsoc-bpgc/",
-    "other_social": "https://github.com/Devsoc-BPGC",
-    "whatsapp": "https://chat.whatsapp.com/KKCGk5JilZQIkV2lRJJREL?mode=ems_copy_t",
+    "github": "https://github.com/Devsoc-BPGC",
     "image1": "/club-images/Developers__Society_BITS_Goa_Image1.png",
     "image2": "/club-images/Developers__Society_BITS_Goa_Image2.png"
   },
@@ -592,7 +544,6 @@
     "description": "The Centre for Entrepreneurial Leadership (CEL) at BITS Pilani, Goa Campus isn’t just a club, it’s a family of dreamers, doers, and change-makers who believe in turning bold ideas into reality. If you’ve ever felt that spark to build something meaningful, lead with purpose, or work alongside some of the most passionate minds on campus, CEL is the place for you.\n\nHere, every conversation can turn into a collaboration, every idea has the potential to become a project, and every member grows not just in skills, but in confidence and vision. From our flagship E-Summit Coalescence, where you meet inspiring entrepreneurs and investors, to thrilling pitch contests, case challenges, and hands-on workshops, CEL is where learning meets action.\n\nMore than events, it’s about the people you meet, the bonds you build, and the journey you share. In CEL, you won’t just join a team—you’ll grow with a family and leave your mark on something bigger than yourself.",
     "instagram": "https://www.instagram.com/celbitsgoa/?hl=en",
     "linkedin": "https://www.linkedin.com/company/celbitsgoa/",
-    "whatsapp": "https://chat.whatsapp.com/FvJxDMNuhjtL6OswuhLGzX?mode=ems_copy_t",
     "image1": "/club-images/Center_for_Entrepreneurial_Leadership_Image1.jpg",
     "image2": "/club-images/Center_for_Entrepreneurial_Leadership_Image2.jpg"
   },
@@ -603,8 +554,7 @@
     "abbreviation": "DoPy",
     "description": "At DoPy, we capture the heart of campus life—fest aftermovies, artist releases, freshers’ intros, convocation, theme reveals, and plenty more in between.\n\nBeing part of DoPy isn’t just about picking up a camera. It’s about being right there in the middle of the action, catching moments and turning them into something people can relive again and again.\n\n📸 DoPy — Where every frame tells a story.",
     "instagram": "https://www.instagram.com/dopybitsgoa?igsh=a3FxcjJzbGVhYzlx",
-    "other_social": "https://www.facebook.com/share/1CyRToQnis/",
-    "whatsapp": "https://chat.whatsapp.com/Bh8eDoJEzhXGsM7g0aEHI8?mode=ac_t",
+    "github": "https://www.facebook.com/share/1CyRToQnis/",
     "image1": "/club-images/The_Department_of_Photography_Image1.jpg",
     "image2": "/club-images/The_Department_of_Photography_Image2.jpg"
   },
@@ -616,7 +566,6 @@
     "description": "We are the Aerodynamics Club at BITS Goa, a group of students passionate about all things\nflight. We design, build and fly innovative RC planes and drones from scratch. Nothing stops us\nfrom taking our designs to the next level when it comes to national and international\ncompetitions, and our dream is to bring every crazy idea to life!\nWe have two major domains: Competitive and Creative. Team Pegasus and Team Artemis are\nour competitive teams that travel the globe, taking part in prestigious competitions like SAE\nAerothon India, and AIAA Design, Build, Fly in the USA.\nWe look to harbour research and creativity as well - that’s what our project teams are for. VTOL\nand Ornithopter were teams that took on testing the limits of flight, implementing vertical takeoff\nand biomimicry in their design ideas. This year, we intend to revamp VTOL, and along with that,\nwe have an extremely promising lineup of new projects like SLAM - an automation project to\ncreate a 3D map of our campus. Our vision with Skyhauler is to create a giant plane (~2m\nwingspan) that works as a glider tester. We are also forecasting major work in Skylabs - our\nplane automation project. We hope to make this year a success with our new inductees!\nSOCIALS:\nFollow us on Instagram:\n@aerodbpgc @team_pegasus_bpgc @team_artemis_bpgc\nLinkedin:\nAerodynamics Club, BITS Goa\nTeam Pegasus | The Aerodynamics Club",
     "instagram": "@aerodbpgc @team_pegasus_bpgc @team_artemis_bpgc",
     "linkedin": "Aerodynamics Club, BITS Goa ",
-    "whatsapp": "https://chat.whatsapp.com/HclwKlakaM60WDyF6SxR0d",
     "image1": "/club-images/The_Aerodynamics_Club__BITS_Goa_Image1.jpeg",
     "image2": "/club-images/The_Aerodynamics_Club__BITS_Goa_Image2.jpeg"
   },
@@ -628,7 +577,6 @@
     "description": "At Quark Controls we build one the biggest techno-management fests of India here at BITS Goa right from its very essentials , from workshops , exhibitions and events to conducting the nights it all comes under Quark Controls. We have been hosts to big names like Dr. APJ Abdul Kalam and many nobel laureates. We promote innovation and creativity allowing you to build an experience that you always dreamt of.",
     "instagram": "https://www.instagram.com/quarkcontrols?igsh=MXhiOWVueHN4OHc2Yw==",
     "linkedin": "https://www.linkedin.com/company/quark-bits-pilani-goa/",
-    "whatsapp": "https://chat.whatsapp.com/FEu22t2ZbmuChfel8LT0lP?mode=ac_t",
     "image1": "/club-images/Quark_Controls_Image1.jpg",
     "image2": "/club-images/Quark_Controls_Image2.jpg"
   },
@@ -639,7 +587,6 @@
     "abbreviation": "Kabaddi Team",
     "description": "BITS Goa Kabaddi Team\n\nThe Kabaddi Team of BITS Goa stands for strength, unity, and passion. Known for our fearless raids and rock-solid defense, we have carved a strong presence on the mat — lifting the Spree 2024 Championship and finishing as runners-up at InterBITS 2024.\n\nBut beyond victories, what truly defines us is our culture. Kabaddi at BITS Goa is about trust, discipline, and pushing limits together. Every training session builds not just skill, but also resilience and brotherhood — values that stay with us beyond the game.\n\nFor us, Kabaddi is more than a sport; it’s a mindset. A mindset to fight harder, stay grounded, and always back your team. If you’ve got the fire to test yourself and grow with the team, the mat is waiting for you.",
     "instagram": "@bpgc_kabaddi",
-    "whatsapp": "https://chat.whatsapp.com/IljMjSaowa54GSCu2Cffeg?mode=ems_copy_t",
     "image1": "/club-images/Bits_Goa_Kabaddi_Team_Image1.jpeg",
     "image2": "/club-images/Bits_Goa_Kabaddi_Team_Image2.jpeg"
   },
@@ -651,8 +598,7 @@
     "description": "The Department of Finance and Asset Management (DoFAM) is the backbone of the three flagship fests of BITS Goa – Waves, Quark, and Spree. We are responsible for managing and streamlining the finances that keep these large-scale events running smoothly. From budget allotment across departments to tracking expenses and monitoring revenues generated by the departments , DoFAM ensures that every rupee is accounted for and optimally utilized. With a combined fest budget of nearly ₹4 crore, our department plays a pivotal role in making sure funds are allocated strategically and transparently, enabling the fests to grow year after year.\n\nBeyond finances, DoFAM also takes charge of asset management, overseeing the procurement, usage, and tracking of resources that support the successful execution of all events. By maintaining financial discipline and safeguarding assets, DoFAM ensures that the spirit of the fests thrives sustainably, both now and in the future.",
     "instagram": "https://www.instagram.com/dofambitsgoa/",
     "linkedin": "https://www.linkedin.com/company/department-of-finance-and-assets-management/l",
-    "other_social": "NA",
-    "whatsapp": "https://chat.whatsapp.com/EwqGjjRJ1GC1i8A7ZjOKz7?mode=ems_copy_c",
+    "github": "NA",
     "image1": "/club-images/Department_of_Finance___Asset_Management_Image1.jpeg",
     "image2": "/club-images/Department_of_Finance___Asset_Management_Image2.jpeg"
   },
@@ -664,7 +610,6 @@
     "description": "🌸 We are the official Bengali Community of BITS Goa. 🎉 You come for the festivals, you stay for the people. 🤝",
     "instagram": "aparajito_bpgc",
     "linkedin": "Aparajito BITS GOA",
-    "whatsapp": "https://chat.whatsapp.com/ElfnRn8jAbFIqS5QnUmWU3",
     "image1": "/club-images/Aparajito_Image1.jpg",
     "image2": "/club-images/Aparajito_Image2.JPG"
   }

@@ -99,12 +99,12 @@ Papa.parse(csvContent, {
                 description: getVal('Write-Up'),
                 instagram: getVal('Instagram Handle - '),
                 linkedin: getVal('LinkedIn Handle - '),
-                other_social: getVal('GitHub / Facebook Handle - '),
-                whatsapp: getVal('Link to the WhatsApp group that will be used for all Induction-related announcements'),
+                github: getVal('GitHub / Facebook Handle - '),
                 image1: findImage('Image1'),
-                image2: findImage('Image2')
+                image2: findImage('Image2'),
+                // whatsapp: getVal('Link to the WhatsApp group...') // Removed as requested
             };
-        }).filter(c => c !== null);
+        }).filter(Boolean); // Filter out nulls
 
         fs.writeFileSync(outputPath, JSON.stringify(clubs, null, 2));
         console.log(`Processed ${clubs.length} clubs.`);
